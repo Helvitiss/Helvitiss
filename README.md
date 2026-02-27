@@ -1,77 +1,134 @@
 <div align="center">
 
-# Привет, я Александр
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Aleksandr%20Korabel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer&descAlignY=58&descSize=18&descColor=aaaaaa"/>
 
-### Python-разработчик — ищу первую позицию в backend или разработке Telegram-ботов
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+developer+%F0%9F%90%8D;Telegram+bot+developer+%F0%9F%A4%96;Open+to+first+job+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
-Пишу на Python чуть больше года. За это время успел поработать с реальными задачами: три из моих проектов используются людьми на постоянной основе — не как демо, а как рабочие инструменты.
+<br/>
+
+[![Telegram](https://img.shields.io/badge/-@helvitiss-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/helvitiss)
+![Open to work](https://img.shields.io/badge/Open%20to%20work-yes-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1%2B%20year-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## Немного о себе
+### 👨‍💻 О себе
 
-- Осваиваю backend разработку: REST API, async, базы данных, архитектура
-- Прошёл большое количество курсов на [Stepik](https://stepik.org) по Python, алгоритмам и веб-разработке
-- Студент по специальности **Компьютерные науки** (неоконченное высшее)
-- Открыт к первой позиции — backend или Telegram-боты
+Пишу на Python чуть больше года. Изучал самостоятельно — **Поколение Python** (начинающий, продвинутый, алгоритмы), курсы по Django, FastAPI, aiogram и MySQL на Stepik. Неоконченное высшее по **Компьютерным наукам**.
 
----
-
-## Стек
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Базы данных**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-**Боты и автоматизация**
-
-![aiogram](https://img.shields.io/badge/aiogram_3-009688?style=for-the-badge&logo=telegram&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-**Инфраструктура**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Три мои проекта используются реальными людьми каждый день. Ищу первую позицию в backend или разработке Telegram-ботов.
 
 ---
 
-## Проекты
-
-Не все проекты одинаковые — три из них реально используются каждый день.
-
-### В production
-
-| Проект | Описание |
-|---|---|
-| [Fastapi-Delivery-API](https://github.com/Helvitiss/Fastapi-Delivery-API) | REST API для сервиса доставки. FastAPI, PostgreSQL, SQLAlchemy 2.0 async, JWT + OTP. Layered Architecture, 100% покрытие тестами |
-| [dailypulse-bot](https://github.com/Helvitiss/dailypulse-bot) | Бот для ежедневных опросов команды. Рассылка по таймзоне каждого пользователя, скоринг эффективности, отчёты администратору. aiogram 3, PostgreSQL, APScheduler, Docker |
-| [RaspberryPi-TG-Bot](https://github.com/Helvitiss/RaspberryPi-TG-Bot) | Мониторинг Raspberry Pi через Telegram — алерты, управление процессами, автообновление кода. Работает как systemd-сервис |
-| [facebook-ad-library-scraper](https://github.com/Helvitiss/facebook-ad-library-scraper) | Инструмент для сбора и анализа рекламных объявлений. Написан для реального пользователя, используется на постоянной основе |
-
-### Учебные проекты
-
-| Проект | Описание |
-|---|---|
-| [DjangoMiniTwitter](https://github.com/Helvitiss/DjangoMiniTwitter) | Социальная сеть на Django — посты, лайки через AJAX, комментарии, кастомный пользователь, поиск |
-| [expenses_tg_bot](https://github.com/Helvitiss/expenses_tg_bot) | Первый Telegram-бот — учёт личных финансов. FSM-сценарии, aiomysql, pytest |
-
----
-
-## Связь
+### 🛠 Технологии
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@helvitiss-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/helvitiss)
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,mysql,docker,git,linux,selenium&theme=dark&perline=9" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Backend | Боты | БД | Инфра |
+|:---:|:---:|:---:|:---:|
+| FastAPI · Django | aiogram 3 | PostgreSQL · MySQL | Docker · Linux |
+| SQLAlchemy 2.0 async | APScheduler · FSM | asyncpg · aiomysql | systemd · Git |
+| JWT · OTP | Selenium | SQLAlchemy ORM | pytest |
+
+</div>
+
+---
+
+### 🚀 Проекты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🍕 Fastapi-Delivery-API](https://github.com/Helvitiss/Fastapi-Delivery-API)**
+
+REST API для сервиса доставки еды. Layered Architecture, JWT + OTP авторизация, снапшоты цен в заказе, 100% покрытие тестами.
+
+`FastAPI` `PostgreSQL` `SQLAlchemy 2.0` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**[📊 dailypulse-bot](https://github.com/Helvitiss/dailypulse-bot)**
+
+Telegram-бот для ежедневных опросов команды. Рассылка по таймзоне каждого пользователя, скоринг эффективности.
+
+`aiogram 3` `PostgreSQL` `APScheduler` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🍓 RaspberryPi-TG-Bot](https://github.com/Helvitiss/RaspberryPi-TG-Bot)**
+
+Мониторинг Raspberry Pi через Telegram — алерты, управление процессами, автообновление. Работает как systemd-сервис.
+
+`aiogram 3` `psutil` `systemd` `Linux`
+
+</td>
+<td width="50%" valign="top">
+
+**[🔍 facebook-ad-library-scraper](https://github.com/Helvitiss/facebook-ad-library-scraper)**
+
+Инструмент для сбора рекламных объявлений из Facebook. Написан для реального пользователя, используется ежедневно.
+
+`Selenium` `Python` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🐦 DjangoMiniTwitter](https://github.com/Helvitiss/DjangoMiniTwitter)**
+
+Социальная сеть на Django — посты, лайки через AJAX, комментарии, кастомная модель пользователя, поиск.
+
+`Django` `MySQL` `jQuery`
+
+</td>
+<td width="50%" valign="top">
+
+**[💰 expenses_tg_bot](https://github.com/Helvitiss/expenses_tg_bot)**
+
+Первый Telegram-бот — учёт личных финансов. Доходы, расходы по категориям, история транзакций.
+
+`aiogram 3` `MySQL` `FSM` `pytest`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 Обучение
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 **Университет** | Компьютерные науки (неоконченное высшее) |
+| 📖 **Stepik** | Поколение Python: начинающий · продвинутый · алгоритмы · MySQL |
+| 📖 **Stepik** | Django · aiogram 3 · FastAPI |
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer"/>
+
+*Открыт к первой позиции — пиши в Telegram [@helvitiss](https://t.me/helvitiss)*
 
 </div>
