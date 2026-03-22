@@ -1,12 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Aleksandr%20Korabel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20%7C%20Bots&descAlignY=58&descSize=16&descColor=58A6FF"/>
 
-👋 Привет! Я **Александр Корабель**
+**Python Backend Developer**
 
-Я **Junior Python Developer**, занимаюсь активной разработкой с 2023 года. Начинал с основ самостоятельно, постепенно двигаясь от простых скриптов к архитектурным решениям.
+Разрабатываю production-решения на Python: backend-сервисы, Telegram-боты и инструменты автоматизации.
+Фокус — на надёжной архитектуре, предсказуемой поддержке и практической пользе для бизнеса.
 
-Умею выстраивать слоистую архитектуру, работать с async, писать тесты и деплоить через Docker. Три мои проекта используются реальными людьми каждый день - не как демо, а как рабочие инструменты. 🚀
-
-Ищу **позицию** в backend-разработке или разработке Telegram-ботов.
 
 ---
 
