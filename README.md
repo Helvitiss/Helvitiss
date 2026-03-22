@@ -139,17 +139,6 @@ Telegram-бот для учета доходов и расходов: катег
 
 ---
 
-## Образование и сертификация
-
-- **Stepik**
-  - FastAPI — [сертификат](https://stepik.org/cert/3108889)
-  - Поколение Python: для продвинутых — [сертификат](https://stepik.org/cert/2359909)
-  - Поколение Python: для профессионалов — [сертификат](https://stepik.org/cert/2561738)
-  - Поколение Python: ООП — [сертификат](https://stepik.org/cert/2645878)
-  - Поколение Python: базы данных и SQL — [сертификат](https://stepik.org/cert/2693259)
-
----
-
 ## Контакты
 
 - Telegram: [@helvitiss](https://t.me/helvitiss)
