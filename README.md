@@ -133,22 +133,6 @@ REST API сервиса доставки еды. Layered Architecture, JWT + OTP
 
 ---
 
-## 🎓 Образование и курсы
-
-
-
-- ✅ **Курсы Stepik:**
-  - FastAPI — [смотреть сертификат](https://stepik.org/cert/3108889 )
-  - Поколение Python: для продвинутых — [смотреть сертификат](https://stepik.org/cert/2359909)
-  - Поколение Python: для профессионалов — [смотреть сертификат](https://stepik.org/cert/2561738)
-  - Поколение Python: ООП — [смотреть сертификат]( https://stepik.org/cert/2645878 )
-  - Поколение Python: алгоритмы — [смотреть сертификат](#)
-  - Поколение Python: базы данных и SQL — [смотреть сертификат]( https://stepik.org/cert/2693259 )
-  - Django — [смотреть сертификат](#)
-  - aiogram 3 — [смотреть сертификат](#)
-
----
-
 ## 📫 Контакты
 
 - 💬 Telegram: [@helvitiss](https://t.me/helvitiss)
